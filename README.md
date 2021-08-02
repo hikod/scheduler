@@ -1,4 +1,7 @@
 # Work Day Scheduler
+https://github.com/hikod/scheduler
+https://hikod.github.io/scheduler/
+
 ![image](https://github.com/hikod/scheduler/blob/main/Assets/img/scheduler.jpg)
 
   ## Description
