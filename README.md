@@ -4,7 +4,7 @@
   ## Description
 
     This is a simple calendar application that allows a user to save events for each hour of the day. 
-    ![image](./Assets/img/scheduler.jpg)
+    ![image](https://github.com/hikod/scheduler/blob/main/Assets/img/scheduler.jpg)
   
   ## Table of Contents
  
